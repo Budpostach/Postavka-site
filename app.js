@@ -23,6 +23,11 @@ form.addEventListener('input', () => {
   request.hidden = true;
 });
 
+const initialMode = new URLSearchParams(location.search).get('mode');
+if (initialMode && [...form.elements.mode.options].some(opt => opt.value === initialMode)) {
+  form.elements.mode.value = initialMode;
+}
+
 for (const link of document.querySelectorAll('[data-mode]')) {
   link.addEventListener('click', () => {
     form.elements.mode.value = link.dataset.mode;
