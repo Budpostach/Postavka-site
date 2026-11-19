@@ -60,3 +60,17 @@ footer{padding-block:15px}
 :focus-visible{outline:3px solid #388987;outline-offset:4px}
 @media(max-width:760px){.wrap{width:calc(100% - 34px)}.header{flex-wrap:wrap;gap:10px;padding-block:12px}.header nav{width:100%;order:3;gap:18px;font-size:.9rem}.hero-content{padding-block:66px}.hero{background-position:center,66% center}.cards,.steps,.quote{grid-template-columns:1fr;gap:14px}.section{padding-block:45px}.quote{gap:23px}}
 @media(max-width:390px){.fields{grid-template-columns:1fr}form{padding:14px}}
+
+.header nav a[aria-current="page"]{color:var(--lime)}
+.contacts-page{min-height:100vh;display:flex;flex-direction:column}
+.contacts-page main{flex:1}
+.contacts-hero{background:var(--deep);color:white}
+.contacts-hero .intro{margin-bottom:0}
+.breadcrumb{display:flex;gap:10px;margin-bottom:22px;font-size:.9rem}
+.contact-grid{align-items:start}
+.contact-panel{background:var(--wash);border-radius:15px;padding:24px}
+.contact-grid h2{font-size:clamp(1.55rem,3vw,2.15rem);margin-bottom:14px}
+.contact-number{display:inline-block;margin-bottom:12px}
+.optional{font-weight:400}
+#sms-draft{margin-top:18px}
+@media(max-width:760px){.header nav{flex-wrap:wrap;column-gap:14px;row-gap:6px}}
