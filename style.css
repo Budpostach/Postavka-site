@@ -77,3 +77,13 @@ footer{padding-block:15px}
 
 .brand:has(.brand-logo){height:44px;overflow:hidden}
 .brand-logo{display:block;width:182px;height:auto;flex:none}
+
+.header-contacts,.messengers{display:flex;align-items:center;gap:8px}
+.header-contacts{gap:12px}
+.messenger{display:grid;place-items:center;width:34px;height:34px;border-radius:50%;color:#fff}
+.messenger svg{width:22px;height:22px}
+.telegram{background:#007fae}
+.whatsapp{background:#087b42}
+.viber{background:#6850a4}
+.messenger:hover,.messenger:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+@media(max-width:760px){.header-contacts{flex-wrap:wrap}}
