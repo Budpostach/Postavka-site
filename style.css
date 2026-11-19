@@ -74,3 +74,6 @@ footer{padding-block:15px}
 .optional{font-weight:400}
 #sms-draft{margin-top:18px}
 @media(max-width:760px){.header nav{flex-wrap:wrap;column-gap:14px;row-gap:6px}}
+
+.brand:has(.brand-logo){height:44px;overflow:hidden}
+.brand-logo{display:block;width:182px;height:auto;flex:none}
