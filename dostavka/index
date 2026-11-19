@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Доставка товарів з Китаю в Україну від Postavka: морські контейнерні перевезення, авіадоставка та збірні вантажі зі складу в Китаї.">
+<meta name="theme-color" content="#071e29">
+<title>Доставка з Китаю — Postavka</title>
+<meta property="og:title" content="Доставка з Китаю — Postavka">
+<meta property="og:description" content="Морська доставка, авіадоставка та консолідація збірних вантажів з Китаю в Україну.">
+<link rel="stylesheet" href="../style.css">
+<link rel="icon" type="image/png" href="../public/favicon.png">
+</head>
+<body class="subpage">
+<header><div class="wrap header">
+<a class="brand" href="../" aria-label="Postavka — головна"><img class="brand-logo" src="../public/postavka-logo.png" alt="Postavka" width="182"></a>
+<nav aria-label="Навігація"><a href="./" aria-current="page">Доставка</a><a href="../zakupivli/">Для бізнесу</a><a href="../pro-kompaniyu/">Про компанію</a><a href="../kontakti/">Контакти</a></nav>
+<div class="header-contacts">
+<div class="messengers" role="group" aria-label="Месенджери">
+<a class="messenger telegram" href="https://t.me/+380687768530" aria-label="Написати в Telegram" title="Telegram">
+<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="m3 11 17-7-3 16-5-4-3 3 .5-5L17 7 7 13z"/></svg>
+</a>
+<a class="messenger whatsapp" href="https://wa.me/380687768530" aria-label="Написати у WhatsApp" title="WhatsApp">
+<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.7" d="M20.5 11.7a8.5 8.5 0 0 1-12.6 7.5L4 20.3l1.1-3.9a8.5 8.5 0 1 1 15.4-4.7Z"/><path fill="currentColor" d="M9.3 7.8c-.2-.4-.4-.4-.7-.4-.5 0-1 .4-1.1 1-.6 2.2 2 5.5 4.6 6.7 1.5.7 3.4.3 3.9-.9.1-.3.1-.6-.2-.8l-1.8-.9c-.3-.1-.5 0-.7.3l-.5.6c-1.3-.5-2.4-1.5-3-2.7l.5-.6c.2-.2.2-.5.1-.7Z"/></svg>
+</a>
+<a class="messenger viber" href="viber://chat?number=%2B380687768530" aria-label="Написати у Viber" title="Viber">
+<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" d="M4 7a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v8a3 3 0 0 1-3 3h-5l-4 3v-3H7a3 3 0 0 1-3-3z"/><path fill="currentColor" d="M9.2 7.5c-.9-.7-2 .7-1.7 1.7.6 2.9 3 5.2 5.8 6.1 1.2.3 2.5-.7 1.9-1.5l-1.7-1.2c-.4-.2-.8.2-1 .6-1.2-.5-2.1-1.4-2.6-2.7.5-.2.8-.6.6-1z"/><path fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" d="M13 7a4 4 0 0 1 4 4m-4-2a2 2 0 0 1 2 2"/></svg>
+</a>
+</div>
+<a class="phone" href="tel:+380687768530">+38 068 776 85 30</a>
+</div>
+</div></header>
+<main>
+<section class="subpage-hero"><div class="wrap section">
+<nav class="breadcrumb" aria-label="Шлях до сторінки"><a href="../">Головна</a><span aria-hidden="true">/</span><span aria-current="page">Доставка з Китаю</span></nav>
+<h1>Доставка з Китаю</h1>
+<p class="intro">Підбираємо оптимальний маршрут залежно від обсягу, ваги, категорії товару та бажаних строків отримання в Україні.</p>
+</div></section>
+
+<section class="wrap section" aria-labelledby="modes-title">
+<p class="label">ВИДИ ПЕРЕВЕЗЕНЬ</p>
+<h2 id="modes-title">Три формати доставки під задачі бізнесу</h2>
+<div class="cards">
+<article>
+<span class="icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M3 22l4 5h18l4-5-13-5zM8 21V10h16v11M13 10V5h6v5M16 17v9"/></svg></span>
+<h3>Морська доставка</h3>
+<p>Найвигідніше рішення для комерційних партій, об’ємного товару, обладнання та стабільних регулярних поставок.</p>
+<ul class="checklist">
+<li>Збірні контейнерні відправки (LCL)</li>
+<li>Окремий контейнер під ваш вантаж (FCL)</li>
+<li>Оптимальна собівартість одиниці товару</li>
+</ul>
+<a href="../?mode=%D0%9C%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B0#quote">Розрахувати морську доставку</a>
+</article>
+
+<article>
+<span class="icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M3 18l11 2 2 8 3-1 1-8 8-8c2-2 2-5 0-7-2-1-4 0-6 2l-8 8-8 1z"/></svg></span>
+<h3>Авіадоставка</h3>
+<p>Швидке перевезення для зразків перед серійним замовленням, сезонного попиту, електроніки й компактних партій.</p>
+<ul class="checklist">
+<li>Мінімальні строки транзиту</li>
+<li>Зручно для тестових партій і дозамовлень</li>
+<li>Узгодження вимог до пакування й батарей</li>
+</ul>
+<a href="../?mode=%D0%90%D0%B2%D1%96%D0%B0#quote">Розрахувати авіадоставку</a>
+</article>
+
+<article>
+<span class="icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M5 10l11-6 11 6v13l-11 6-11-6zM5 10l11 6 11-6M16 16v13M10 7l11 6v4"/></svg></span>
+<h3>Збірні вантажі</h3>
+<p>Консолідація замовлень від кількох китайських постачальників на одному складі в одну спільну відправку.</p>
+<ul class="checklist">
+<li>Приймання товару від різних фабрик</li>
+<li>Перевірка кількості місць та цілісності тари</li>
+<li>Зменшення витрат на оформлення й доставку</li>
+</ul>
+<a href="../?mode=%D0%97%D0%B1%D1%96%D1%80%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%82%D1%96%D1%8F#quote">Розрахувати збірну партію</a>
+</article>
+</div>
+</section>
+
+<section class="band" aria-labelledby="logistics-flow-title">
+<div class="wrap section">
+<p class="label">ЕТАПИ РОБОТИ</p>
+<h2 id="logistics-flow-title">Як організоване перевезення</h2>
+<ol class="steps">
+<li><h3>Оцінка параметрів</h3><p>Аналізуємо найменування товару, вагу, габарити, код УКТЗЕД та пункт відправлення у Китаї.</p></li>
+<li><h3>Приймання та консолідація</h3><p>Забираємо вантаж у постачальника або приймаємо на складі в Китаї, звіряємо місця та додатково пакуємо за потреби.</p></li>
+<li><h3>Доставка й видача</h3><p>Супроводжуємо проходження маршруту, митні процедури та доставляємо товар у Київ, Одесу, Львів, Дніпро й інші міста України.</p></li>
+</ol>
+</div>
+</section>
+
+<section class="wrap section">
+<div class="cta-box">
+<div>
+<h2>Потрібен точний розрахунок вартості?</h2>
+<p>Заповніть калькулятор об’єму та параметри товару на головній сторінці — менеджер підбере маршрут і підготує пропозицію.</p>
+</div>
+<div class="actions">
+<a class="button" href="../#quote">Відкрити калькулятор</a>
+<a class="button outline" href="../zakupivli/">Послуги для бізнесу</a>
+</div>
+</div>
+</section>
+</main>
+<footer><div class="wrap header"><a class="brand" href="../"><img class="brand-logo" src="../public/postavka-logo.png" alt="Postavka" width="182"></a><div class="footer-nav"><a href="./" aria-current="page">Доставка</a><a href="../zakupivli/">Для бізнесу</a><a href="../pro-kompaniyu/">Про компанію</a><a href="../kontakti/">Контакти</a></div><a class="phone" href="tel:+380687768530">+38 068 776 85 30</a></div></footer>
+</body>
+</html>
